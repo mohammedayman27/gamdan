@@ -1,0 +1,16 @@
+tr
+{
+    border: solid rgb(150, 144, 144);
+}
+td
+{
+    border: black solid;
+}
+table
+{
+    border: solid red;
+}
+th
+{
+    border: solid black;
+}
